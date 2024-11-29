@@ -5,14 +5,14 @@
 }
 body{
     font-family: Arial, sans-serif;
-    background-color: #f4f4f9;
-    color: #333;
+    background-color: #ffffff;
+    color: #8d8b8b;
     line-height: 1.6;
     padding: 20px;
 }
 header{
-    background-color: #e42d14;
-    color:white;
+    background-color: #8a0505;
+    color:rgb(255, 255, 255);
     padding: 20px;
     text-align: center;
 }
@@ -31,19 +31,19 @@ main{
 section{
     margin-bottom: 20px;
     padding: 20px;
-    background-color: #fff;
+    background-color: #000000;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0,0,0,0,1);
 }
  section h2 {
-    color:#e6000098;
+    color:#dd000098;
     font-size: 1.8em;
     margin-bottom: 10px;
  }
   
  footer {
-    background-color: #333;
-    color: white;
+    background-color: #747474;
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 10px 0;
     position: fixed;
