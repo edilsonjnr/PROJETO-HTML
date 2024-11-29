@@ -11,7 +11,7 @@ body{
     padding: 20px;
 }
 header{
-    background-color: #0073e6;
+    background-color: #e42d14;
     color:white;
     padding: 20px;
     text-align: center;
@@ -36,7 +36,7 @@ section{
     box-shadow: 0 2px 5px rgba(0,0,0,0,1);
 }
  section h2 {
-    color:#0073e6;
+    color:#e6000098;
     font-size: 1.8em;
     margin-bottom: 10px;
  }
